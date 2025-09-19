@@ -1,4 +1,4 @@
-# NYCU-EOS-2024
+# NCTU-EOS-2024
 
 ## Pretest
 - Only those who pass the pretest can take this course.
