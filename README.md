@@ -39,7 +39,7 @@
     - lab3-2_writer.c
         * Usage: `$ ./lab3-2_writer <student ID>` 
 
-## Hw1
+## HW1
 - In this homework, I will create seg_driver and led_driver.
 - Create kernel object
     * make sure you've already set the `$(PWD)` to the correct file. In my case, `$ PWD=/home/wang/linux`.
@@ -103,7 +103,7 @@
         - pthread_create()
         - attach and detach. Beware of pointer type.
 
-## Hw2
+## HW2
 - Use `$ ./Hw2_app <port>` to run with the program hw2_checker
 - `$ hw2_checker <ip> <port>`
 
@@ -121,4 +121,8 @@
 - game.c
     - Usage `$ ./game <shm key> <guess>`
 - guess.c
-    - Usage `$ ./game <shm key> <Upper bound> <game's PID>`    
+    - Usage `$ ./game <shm key> <Upper bound> <game's PID>`
+
+## HW3
+- Use `$ ./Hw3_app <port>` to run with the program hw3_checker
+- `$ hw3_checker <ip> <port>`
